@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🙋‍♀️ A short introduction - what is your organization all about?
+🙋‍♀️ A short introduction - what is your organization all about?\\
 用来整理、学习和复现游戏行业经典算法。
 <!--
 
