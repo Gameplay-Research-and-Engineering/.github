@@ -6,11 +6,12 @@
 
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 
-|                 | Description                                                  |         |
-| --------------- | ------------------------------------------------------------ | ------- |
-| ORCA            | Optimal Reciprocal Collision Avoidance<br />最优互斥碰撞避免 |         |
-| Sync            | 网络同步                                                     | NetCode |
-| Space Partition | 空间分割                                                     | kdTree  |
+|                         | Description                                                  |         |
+| ----------------------- | ------------------------------------------------------------ | ------- |
+| ORCA                    | Optimal Reciprocal Collision Avoidance<br />最优互斥碰撞避免 |         |
+| Sync                    | 网络同步                                                     | NetCode |
+| Space Partition         | 空间分割                                                     | kdTree  |
+| Third Person Controller | 第三人称控制器                                               |         |
 
 <!--
 
