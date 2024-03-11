@@ -13,7 +13,7 @@
 | Space Partition         | 空间分割                                                     | kdTree                                             |
 | Third Person Controller | 第三人称控制器                                               |                                                    |
 | Input System            | 输入系统                                                     |                                                    |
-| Math                    | 数学                                                         | 高等数学<br />线性代数<br />概率论                 |
+| Math                    | 高等数学                                                         | 微积分<br />线性代数<br />概率论                 |
 
 <!--
 
