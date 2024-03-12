@@ -14,6 +14,7 @@
 | Third Person Controller                       | 第三人称控制器         |                                                        |
 | Input System                                  | 输入系统               |                                                        |
 | Minkowski Operation                           | 闵可夫斯基操作         | 闵可夫斯基和<br />闵可夫斯基差                         |
+| Operation Research                            | 运筹学                 |                                                        |
 | Math                                          | 高等数学               | 微积分<br />线性代数<br />概率论                       |
 
 <!--
